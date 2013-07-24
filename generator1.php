@@ -16,7 +16,6 @@ foreach ($g as $x)
 }
 
 /**
- * 
  * generator関数
  * yieldが呼び出される度に1ずつ加算される
  */

@@ -21,7 +21,7 @@ foreach ($g as $x)
  */
 function gfunc()
 {
-	$i = 0;
+	$i = 5;
 	yield $i;
 	$i++;
 	yield $i;
